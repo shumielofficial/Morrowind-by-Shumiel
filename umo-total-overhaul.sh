@@ -1,19 +1,28 @@
 #!/bin/bash
 #==================================================================
-# Fully Automated OpenMW + MOMW/UMO/Morrowind Mod Setup Script
-# Debian/Ubuntu/Mint (APT-based systems) only
-# Confirmed working on Linux Mint under VMware
-# For umo 'Slow download', please do not use Tampermonkey/Tab Wrangler
-# It's recommended to use Nexus Premium instead :)
+# Fully Automated OpenMW + MOMW / UMO / Morrowind Mod Setup Script
 #
-# If any of my scripts, or resources from this repository
-# helped you, taught you something new, or even just inspired you -
-# consider supporting me by subscribing to my YouTube channels. :)
+# Official UMO URLs:
+#   - https://modding-openmw.gitlab.io/umo/
+#   - https://modding-openmw.com/guides/auto/
 #
-# PL:  https://www.youtube.com/@Shumiel
-# ENG: https://www.youtube.com/@ShuTastyBytes
+# Supported systems:
+#   - Debian / Ubuntu / Mint (APT-based only)
 #
-# Your support keeps me alive and motivates for future initiatives.
+# Status:
+#   - Confirmed working on Linux Mint (VMware environment)
+#   - For UMO "Slow download" issues, avoid Tampermonkey / Tab Wrangler
+#   - Recommended: use Nexus Premium for faster mod downloads
+#
+# Note:
+#   If any of my scripts or resources from this repository
+#   helped you, taught you something new, or even just inspired you —
+#   please consider supporting me by subscribing to my YouTube channels:
+#
+#     PL:  https://www.youtube.com/@Shumiel
+#     ENG: https://www.youtube.com/@ShuTastyBytes
+#
+# Your support keeps me motivated and fuels future initiatives.
 #==================================================================
 
 #==================================================================
